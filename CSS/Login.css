@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(90deg,#E8CBC0,#636FA4);
+    /* background-image: url(/Images/Mountain.jpg);
+    background-size: cover; */
+}
+.box
+{
+    width: 400px;
+    min-height: 200px;
+    border: 2px solid #000;
+    margin: 140px auto;
+    background-color: white;
+    /* background-image: url(/Images/Luffy.jpg); */
+    background-size: cover;
+    border: none;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    
+}
+.header
+{
+    width: 100%;
+}
+h1{
+    font-family: "Mukta", sans-serif;
+    text-align: center;
+    padding: 10px 20px;
+}
+.form-space
+{
+    width: 100%;
+    padding: 10px 20px;
+}
+label
+{
+    font-family: "Mukta", sans-serif;
+}
+input[type=text]
+{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    padding-left: 30px;
+    outline: none;
+    background-image: url(/Icon/user\ 24.png);
+    background-repeat: no-repeat;
+    border: none;
+    border-bottom: 2px solid black;
+    /* background-color: coral;
+    color: white; */
+}
+input[type=password]
+{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    padding-left: 30px;
+    outline: none;
+    background-image: url(/Icon/pass\ 20.png);
+    background-repeat: no-repeat;
+    border: none;
+     border-bottom: 2px solid black;
+}
+input[type=submit]
+{
+    width: 30%;
+    height: 35px;
+    margin-left: 125px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color: royalblue;
+    color: white;
+}
+input[type=submit]:hover
+{
+    background-color: black;
+}
