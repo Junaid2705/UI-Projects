@@ -1,0 +1,417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+<title>Become a Trainer | Gymslee</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="generator" content="www.nemesis.ro" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="copyright" content="Copyright 2024 Gymslee" />
+<meta name="msapplication-config" content="none" />
+<link rel="preconnect" href="https://v1.gymslee.com/" crossorigin />
+<link rel="dns-prefetch" href="https://v1.gymslee.com/" crossorigin />
+<link rel="preconnect" href="https://v2.gymslee.com/" crossorigin />
+<link rel="dns-prefetch" href="https://v2.gymslee.com/" crossorigin />
+<link href="/favicon.ico" type="image/x-icon" rel="icon" />
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" /> 
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="canonical" href="https://www.gymslee.com/page/trainer" />  
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="https://www.gymslee.com/page/trainer" />
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Gymslee" />
+<meta property="og:title" content="Become a Trainer | Gymslee" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="https://www.gymslee.com/static/images/og-image.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Become a Trainer | Gymslee" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="https://www.gymslee.com/static/images/og-image.jpg" />
+<link rel="stylesheet" title="css" href="/static/css/style.css?v=1.3" type="text/css" />
+<script type="text/javascript" src="/static/js/javascript.js?v=1.3"></script>
+</head>
+<body>
+<header class="header-container">
+  <div class="header main">
+    <div class="header-inner page-max-width">
+            <div class="mobile-only"><a href="javascript:void(0)" rel="nofollow" class="header-menu menu-nav-zone" data-dropdown="nav-area"><i class="menu-icon fa fa-bars"></i></a></div>      <div class="logo"><a href="/" title="Gymslee"><img class="gymslee-logo" src="/static/images/logo.svg" width="207" height="40" alt="Gymslee" /></a></div>
+            <div class="browse-zone dropdown-tab">
+        <a href="/courses" class="header-menu menu-nav-zone desktop-only" data-dropdown="nav-area">Browse <i class="fas fa-chevron-down"></i></a>
+				<div class="dropdown dropdown-selector" id="nav-area">
+          <div class="mobile-only"><a class="close-dropdown-tab" href="javascript:void(0)"><i class="fas fa-times"></i></a></div>
+          <div class="drop-content">
+            <div class="arrow-up"></div>
+            <nav class="nav-container">
+              <ul>
+                <li><a href="/courses" title="All Courses"><strong>Explore All Courses</strong></a></li>
+                <li class="separator"></li>
+                	<li data-nav-category="2" class="level-0">
+		<a href="/courses/hiit" title="Hiit">Hiit</a>
+	</li>
+	<li data-nav-category="3" class="level-0">
+		<a href="/courses/strength-training" title="Strength Training">Strength Training</a>
+	</li>
+	<li data-nav-category="4" class="level-0">
+		<a href="/courses/pilates" title="Pilates">Pilates</a>
+	</li>
+	<li data-nav-category="5" class="level-0">
+		<a href="/courses/cardiovascular" title="Cardiovascular">Cardiovascular</a>
+	</li>
+	<li data-nav-category="14" class="level-0">
+		<a href="/courses/sport-training" title="Sport Training" class="open-submenu">Sport Training<i class="fa fa-chevron-right"></i></a>
+<div class="dropdown submenu submenu-selector"><div class="drop-content">
+ <ul>
+<li class="level1 top-category-info mobile-only" align="center"><a rel="nofollow" class="active mobile-close-submenus"><small><i class="fas fa-chevron-left"></i></small> Go Back</a></li>
+<li class="level1 top-category-info"><a href="/courses/sport-training" class="level1" title="All Sport Training">All Sport Training</a></li>
+	<li data-nav-category="15" class="level-1">
+		<a href="/courses/basketball" title="Basketball">Basketball</a>
+	</li>
+	<li data-nav-category="16" class="level-1">
+		<a href="/courses/soccer" title="Soccer">Soccer</a>
+	</li>
+	<li data-nav-category="17" class="level-1">
+		<a href="/courses/football" title="Football">Football</a>
+	</li>
+	<li data-nav-category="18" class="level-1">
+		<a href="/courses/gymnastic" title="Gymnastic">Gymnastic</a>
+	</li>
+	<li data-nav-category="19" class="level-1">
+		<a href="/courses/boxing" title="Boxing">Boxing</a>
+	</li>
+	<li data-nav-category="20" class="level-1">
+		<a href="/courses/kick-boxing" title="Kick Boxing">Kick Boxing</a>
+	</li>
+	<li data-nav-category="21" class="level-1">
+		<a href="/courses/baseball" title="Baseball">Baseball</a>
+	</li>
+ </ul>
+</div></div>
+	</li>
+	<li data-nav-category="6" class="level-0">
+		<a href="/courses/yoga-flexibility" title="Yoga &amp; Flexibility">Yoga &amp; Flexibility</a>
+	</li>
+	<li data-nav-category="7" class="level-0">
+		<a href="/courses/low-impact" title="Low Impact">Low Impact</a>
+	</li>
+	<li data-nav-category="8" class="level-0">
+		<a href="/courses/kettlebell" title="Kettlebell">Kettlebell</a>
+	</li>
+	<li data-nav-category="9" class="level-0">
+		<a href="/courses/toning" title="Toning">Toning</a>
+	</li>
+	<li data-nav-category="10" class="level-0">
+		<a href="/courses/balance-agility" title="Balance &amp; Agility">Balance &amp; Agility</a>
+	</li>
+	<li data-nav-category="11" class="level-0">
+		<a href="/courses/plyometric" title="Plyometric">Plyometric</a>
+	</li>
+	<li data-nav-category="12" class="level-0">
+		<a href="/courses/barre" title="Barre">Barre</a>
+	</li>
+	<li data-nav-category="13" class="level-0">
+		<a href="/courses/trx" title="TRX">TRX</a>
+	</li>
+              </ul>
+            </nav>
+          </div>  
+        </div>
+      </div>
+            <div class="search-zone desktop-only dropdown-selector" id="search-area">
+                <div class="mobile-only"><a class="close-dropdown-tab" href="javascript:void(0)"><i class="fas fa-times"></i></a></div>
+        <div class="search-bar">
+          <form action="/search" method="post">
+            <input type="text" name="search_input" class="input input" id="search_input"  placeholder="Find Your Fitness Routine" autocomplete="off" />            <span class="symbol"><i class="fas fa-search"></i></span>
+          </form>
+        </div>
+              </div>
+      <div class="user-zone">
+        <ul>
+          <li class="desktop-only"><a href="/page/trainer" class="header-menu">Become a Trainer</a></li>          <li class="mobile-only"><a href="javascript:void(0)" rel="nofollow" class="header-menu menu-nav-zone" data-dropdown="search-area"><i class="menu-icon fa fa-search"></i></a></li>          <li class="dropdown-tab">
+            <a rel="nofollow" class="header-menu my-account-tab menu-nav-zone"><img src="https://www.gymslee.com/static/avatars/default.png" alt="Account" width="50" height="50" /></a>
+            <div class="dropdown account-dropdown dropdown-selector" id="account-area">
+              <div class="mobile-only"><a class="close-dropdown-tab" href="javascript:void(0)"><i class="fas fa-times"></i></a></div>
+              <div class="drop-content">
+                <div class="arrow-up"></div>
+                <div class="nav-container">
+                  <ul>
+                                      <li align="center"><a href="javascript:void(0)" onclick="loginPop(); return false;" title="Log in">Login</a></li>
+                    <li class="splitrow"><div></div><span>or</span></li>
+                    <li align="center"><a href="javascript:void(0)" onclick="registerPop(); return false;" title="Sign Up">Sign Up</a></li>                  
+                                                          <li class="separator mobile-only"></li>
+                    <li class="become-trainer mobile-only"><a href="/page/trainer">Become a Trainer<br /><small>Share your knowledge with the world!</small></a></li>
+                                      </ul>
+                </div>
+              </div>  
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="overlay-container fade-for-dropdown for-mobile"></div>
+  </div>
+  <div class="header-container-h"></div>
+</header>
+<div class="wrapper-container">
+    <div class="wrapper-content">
+        <div class="notifications-wrapper main">
+      <noscript>
+        <div class="notification notification-error"><button type="button" class="close">&times;</button><strong>Javascript appears to be disabled in your browser.</strong> You must have JavaScript enabled in your browser to utilize the functionality of this website.</div>
+      </noscript>
+                  <div class="clear"></div>
+    </div> 
+ <div class="topBigZone trainer">
+  <h1 class="title"><div class="int">Become a <span class="venus-rising">Trainer</span></div></h1>
+            <a href="javascript:void(0)" onclick="registerPop(0, 1); return false;" class="button">Get Started Now</a>
+      </div>
+
+<div class="btrainer-page">
+  <div class="main maintb">
+    <div class="page-max-width">
+      <div class="title">Share Your Fitness Knowledge</div>
+      <div class="list-operations">
+        <div class="nav-button active" data-item="0">
+          <div class="icon"><i class="fas fa-user-check"></i></div>
+          <div class="text">Create Your Account</div>
+        </div>
+        <div class="nav-line"></div>
+        <div class="nav-button" data-item="1">
+          <div class="icon"><i class="fas fa-video"></i></div>
+          <div class="text">Plan and Record Your Fitness Routine</div>
+        </div>
+        <div class="nav-line"></div>
+        <div class="nav-button" data-item="2">
+          <div class="icon"><i class="fas fa-upload"></i></div>
+          <div class="text">Upload Your Fitness Content to Gymslee</div>
+        </div>
+        <div class="nav-line"></div>
+        <div class="nav-button" data-item="3">
+          <div class="icon"><i class="fas fa-dollar-sign"></i></div>
+          <div class="text">Relax and Earn</div>
+        </div>
+      </div>
+      <div class="desc-operations owl-carousel owl-theme" id="btrainer-slider">
+        <div class="item active">
+          <div class="item-info">
+            <div class="title">Create Your Account</div>
+            <div class="text">
+              <p>Creating an account is easy, simply enter your name and your email address followed by the password you would like to use for the account.</p>
+              <p>Once the information is submitted we will email you a verification email with a link in order to activate the account.</p>
+              <p>Click the link from the email and welcome to Gymslee!</p>
+            </div>
+          </div>
+          <div class="item-image">
+            <img src="/static/content/become-trainer/create-account.png" width="542" height="425" alt="Create Account" />
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-info">
+            <div class="title">Plan and Record Your Fitness Routine</div>
+            <div class="text">
+              <p>Plan and organize the fitness routine you want to share with your audience.</p>
+              <p>Outlining the structure of the routine you will help you optimize the results delivered.</p>
+              <p>Once you have planed your workout, use your favorite video recording device to create your video.</p>
+            </div>
+          </div>
+          <div class="item-image">
+            <img src="/static/content/become-trainer/plan.png" width="606" height="425" alt="Plan and Record Your Fitness Routine" />
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-info">
+            <div class="title">Upload Your Fitness Content to Gymslee</div>
+            <div class="text">
+              <p>After creating the videos, login to your Gymslee trainer account and on the left side of your trainer menu you will find the option to "Add Course".</p>
+              <p>Click on the Add Course button and follow the easy step by step process for submitting your video.</p>
+              <p>Once submitted, Gymslee will review your content and notify you once the content has been approved.</p>
+            </div>
+          </div>
+          <div class="item-image">
+            <img src="/static/content/become-trainer/content.png" width="486" height="425" alt="Upload Your Fitness Content to Gymslee" />
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-info">
+            <div class="title">Relax and Earn</div>
+            <div class="text">
+              <p>The hard work is done! Now you can sit back and relax while Gymslee promotes your videos.</p>
+            </div>
+          </div>
+          <div class="item-image">
+            <img src="/static/content/become-trainer/earning.png" width="490" height="425" alt="Relax and Earn" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main maintb" style="background: #EFEFEF">
+    <div class="page-max-width">
+      <div class="title">We Prepared a Few Videos For You</div>
+      <div class="desc-operations">
+        <div class="item video">
+          <div class="video-info">
+            <div class="title">Adding A Course</div>
+            <div class="text">
+              <p>Adding a course is easy! Once you have created a Trainer account, simply log into your trainer admin and select the add course option.</p>
+            </div>
+          </div>
+          <div class="video-iframe">
+            <div class="viframe"><iframe src="https://www.youtube.com/embed/9sPn4y54mmM?ecver=2" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+          </div>
+        </div>      
+        <div class="item video rightZ">
+          <div class="video-info">
+            <div class="title">Tips For Creating Courses</div>
+            <div class="text">
+              <p>Here are some tips for creating the best possible course.</p>
+            </div>
+          </div>
+          <div class="video-iframe">
+            <div class="viframe"><iframe src="https://www.youtube.com/embed/2vNnc5KaU7A?ecver=2" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+          </div>
+        </div>
+        <div class="item video" style="padding-bottom: 0;">          
+          <div class="video-info">
+            <div class="title">Tips For Trainer Profiles</div>
+            <div class="text">
+              <p>Here are some tips and suggestions for making your trainer account more appealing to users.</p>
+            </div>
+          </div>
+          <div class="video-iframe">
+            <div class="viframe"><iframe src="https://www.youtube.com/embed/IzqIH02aii4?ecver=2" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+          </div>              
+        </div>            
+      </div>
+    </div>
+  </div>    
+
+  <div class="faqzone main maintb">
+    <div class="page-max-width">
+      <div class="title">Frequently asked questions</div>  
+      <div class="faq-container" id="btrainer-faq">
+        <div class="item" data-item="0"><span class="faq-title">Who can become a Gymslee trainer ?</span><span class="description"><p>Anyone can become a Gymslee trainer!  If you are a fitness enthusiast that has knowledge about general or a specific type of training and wish to share it with the world, Gymslee is the platform where you can do it while also earning something in return.</p></span></div>
+        <div class="item" data-item="1"><span class="faq-title">What is required in order to start a Gymslee trainer account ?</span><span class="description"><p>Starting an account is easy, the only information you need to provide in order to get started is your first and last name, your email address and to create a password.  Once the account has been created we will email you with a link in order to activate your account.</p></span></div>
+        <div class="item" data-item="2"><span class="faq-title">How much does it cost to post my courses on Gymslee?</span><span class="description"><p>Signing up to Gymslee and posting your courses is free.  Once members purchase your posted courses we have a 40% commission on the sale.</p></span></div>
+        <div class="item" data-item="3"><span class="faq-title">What price do I have to give my courses, and is there a limit of how many I can post ?</span><span class="description"><p>Gymslee leaves pricing for courses at the discretion of the trainer, each trainer has their own unique approach as to how their courses should be priced.</p><p>There is no limit as to how many courses you can post, the more courses you post the more possible sales. </p></span></div>
+        <div class="item" data-item="4"><span class="faq-title">What device do I need to produce my courses ?</span><span class="description"><p>You can use any device that fits your needs.  Most of the trainers on Gymslee use their smartphones as their device of choice for producing their courses.  But any filming device will work, from a DSLR to your computers webcam.</p></span></div>
+        <div class="item" data-item="5"><span class="faq-title">Are there any tips for creating courses ?</span><span class="description"><p>We encourage trainers to push their creativity producing courses and to experiment with different ways to determine their best fit.</p><p>We suggest that you always include a preview video, members can watch previews prior to purchasing a course which gives them a better understanding of what the courses are about.</p><p>Another recommended practice is to create your course in multiple videos, once you upload the videos you will be able to give them an order and name each video so that members can scroll through the sections as they wish.</p></span></div>
+      </div>
+    </div>
+  </div>  
+</div>    <div class="clear"></div>
+  </div>
+</div>
+<div class="footer-container">
+    <div class="trainer-side main">
+    <div class="content page-max-width maintb">
+      <div class="text">Become a part of <span class="venus-rising">Gymslee</span> !</div>
+      <div class="clickHere"><a href="javascript:void(0)" onclick="registerPop(); return false;" title="Sign Up Today">Sign Up Today</a></div>      
+    </div>
+  </div>
+    <div class="main">
+        <div class="content page-max-width maintb menu-links">
+      <div class="logo"><a class="logo" href="/" title="Gymslee"><img class="gymslee-logo" src="/static/images/logo.svg" width="207" height="40" alt="Gymslee" /></a></div>
+      <div class="menu-container">
+        <div class="item">
+          <div class="item-title"><span class="text">Company</span><span class="icon icon-chevron fa fa-chevron-down" aria-hidden="true"></span></div>
+          <div class="links">
+            <ul class="list">
+              <li><a href="/page/about">About</a></li>
+              <li><a href="/page/contact">Contact Us</a></li>
+              <li><a href="/page/trainer">Become a Trainer</a></li>
+
+            </ul>
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-title"><span class="text">Legal</span><span class="icon icon-chevron fa fa-chevron-down" aria-hidden="true"></span></div>
+          <div class="links">
+            <ul class="list">
+              <li><a href="/page/privacy" class="url">Privacy Policy</a></li>
+              <li><a href="/page/tos" class="url">Terms and Conditions</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-title"><span class="text">Social Media</span><span class="icon icon-chevron fa fa-chevron-down" aria-hidden="true"></span></div>
+          <div class="links">
+            <ul class="list">
+              <li><a href="https://www.instagram.com/gymslee/" target="_blank" rel="nofollow">Instagram</a></li>
+              <li><a href="https://www.facebook.com/Gymslee/" target="_blank" rel="nofollow">Facebook</a></li>
+              <li><a href="https://twitter.com/gymslee" target="_blank" rel="nofollow">Twitter</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="content page-max-width maintb copyright">
+      <div>
+        &copy; 2024 <a href="/" title="Gymslee">Gymslee</a>.
+        <a href="/page/privacy" class="url">Privacy Policy</a>
+        <a href="/page/tos" class="url">Terms</a>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="overlay-container" id="site-popup1">
+  <div class="content" id="site-modalbox1">
+    <div class="exit"><a class="closePopup" onclick="closePopup(1);"><i class="fa fa-window-close"></i></a></div>
+    <div class="popup-wrapper" id="popupContent1"></div>
+    <div class="loading" id="popupLoading1"></div>
+  </div>
+</div>
+<div class="overlay-container" id="site-popup2">
+  <div class="content" id="site-modalbox2">
+    <div class="exit"><a class="closePopup" onclick="closePopup(2);"><i class="fa fa-window-close"></i></a></div>
+    <div class="popup-wrapper" id="popupContent2"></div>
+    <div class="loading" id="popupLoading2"></div>
+  </div>
+</div>
+<div class="overlay-container fade-for-dropdown for-desktop"></div>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LQY4KQC879"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LQY4KQC879');
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136144107-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-136144107-1');
+</script>
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '1005116479958643'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=1005116479958643&ev=PageView
+&noscript=1"/>
+</noscript>
+<script type='text/javascript'>
+window.__lo_site_id = 236897;
+(function() {
+  var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+  wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+  })();
+</script>
+</body>
+</html>
